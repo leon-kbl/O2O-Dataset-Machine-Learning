@@ -3,5 +3,5 @@
 具体数据集信息参考以下网站
 https://tianchi.aliyun.com/competition/entrance/231593/information
 
+理论部分在[个人简书](https://www.jianshu.com/u/edcab6e7ade6)中有详细介绍
 
-个人简书：https://www.jianshu.com/u/edcab6e7ade6
